@@ -2,16 +2,20 @@
 This is a intership project where i write a basic code for calculator by using python language.
 
 def add(x, y):
+   
     return x + y
 
 def subtract(x, y):
+   
     return x - y
 
 def multiply(x, y):
+
     return x * y
 
 def divide(x, y):
-    return x / y
+  
+     return x / y
 
 def calculator():
    
