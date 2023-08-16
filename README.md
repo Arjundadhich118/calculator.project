@@ -1,5 +1,5 @@
 # calculator.project
-This is a intership project where i write a basic code for calculator by using python language.
+Experience quick and simple calculations with our Basic Calculator program in Python. This user-friendly tool allows you to perform essential arithmetic operations such as addition, subtraction, multiplication, and division effortlessly.
 
 def add(x, y):
    
